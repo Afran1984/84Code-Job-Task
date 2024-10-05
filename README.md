@@ -1,8 +1,15 @@
-# React + Vite
+# Service Card Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This is a React-based project that dynamically filters service cards by category and price. The application also demonstrates the use of React Hooks, component structure, and Tailwind CSS for styling.
 
-Currently, two official plugins are available:
+## Features
+- Filter services by category and price.
+- Responsive design with Tailwind CSS.
+- Modal implementation (optional feature).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React.js
+- Tailwind CSS
+- JavaScript (ES6+)
+- Git/GitHub for version control
